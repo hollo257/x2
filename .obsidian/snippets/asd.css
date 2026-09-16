@@ -1,0 +1,183 @@
+/* ============================================
+   Obsidian Iconize 自定义图标样式
+   功能：给特定文件夹和文件添加自定义图标
+   适用插件：Iconize 或 原生 CSS 片段
+   作者：根据你的需求定制
+   ============================================ */
+
+/* --------------------------------------------
+   一、文件夹图标定制
+   -------------------------------------------- */
+
+/* 1. 给 "日记" 文件夹添加日历图标 */
+.nav-folder-title[data-path="日记"] .nav-folder-title-content::before {
+  content: "📅";
+  margin-right: 6px;
+  font-size: 1.1em;
+}
+
+/* 2. 给 "Projects" 文件夹添加项目图标（紫色调） */
+.nav-folder-title[data-path="Projects"] .nav-folder-title-content::before {
+  content: "🚀";
+  margin-right: 6px;
+  font-size: 1.1em;
+}
+
+/* 3. 给 "Inbox" 文件夹添加收件箱图标 */
+.nav-folder-title[data-path="Inbox"] .nav-folder-title-content::before {
+  content: "📥";
+  margin-right: 6px;
+}
+
+/* 4. 给 "Archive" 文件夹添加归档图标 */
+.nav-folder-title[data-path="Archive"] .nav-folder-title-content::before {
+  content: "🗄️";
+  margin-right: 6px;
+}
+
+/* 5. 给 "Templates" 文件夹添加模板图标 */
+.nav-folder-title[data-path="Templates"] .nav-folder-title-content::before {
+  content: "📋";
+  margin-right: 6px;
+}
+
+/* 6. 给 "Assets" 文件夹（存放图片附件）添加图片图标 */
+.nav-folder-title[data-path="Assets"] .nav-folder-title-content::before {
+  content: "🖼️";
+  margin-right: 6px;
+}
+
+/* 7. 给 "MOCs" 文件夹（地图笔记）添加地图图标 */
+.nav-folder-title[data-path="MOCs"] .nav-folder-title-content::before {
+  content: "🗺️";
+  margin-right: 6px;
+}
+
+/* --------------------------------------------
+   二、文件图标定制（按扩展名）
+   -------------------------------------------- */
+
+/* 1. 所有 PDF 文件显示 PDF 图标 */
+.nav-file-title[data-path$=".pdf"] .nav-file-title-content::before {
+  content: "📄";
+  margin-right: 6px;
+}
+
+/* 2. 所有 Excel/CSV 文件显示表格图标 */
+.nav-file-title[data-path$=".xlsx"] .nav-file-title-content::before,
+.nav-file-title[data-path$=".csv"] .nav-file-title-content::before {
+  content: "📊";
+  margin-right: 6px;
+}
+
+/* 3. 所有 Word 文件显示文档图标 */
+.nav-file-title[data-path$=".docx"] .nav-file-title-content::before {
+  content: "📝";
+  margin-right: 6px;
+}
+
+/* 4. 所有图片文件显示图片图标 */
+.nav-file-title[data-path$=".png"] .nav-file-title-content::before,
+.nav-file-title[data-path$=".jpg"] .nav-file-title-content::before,
+.nav-file-title[data-path$=".jpeg"] .nav-file-title-content::before,
+.nav-file-title[data-path$=".gif"] .nav-file-title-content::before,
+.nav-file-title[data-path$=".svg"] .nav-file-title-content::before {
+  content: "🖼️";
+  margin-right: 6px;
+}
+
+/* 5. 所有 Markdown 文件默认加一个书本图标（可选） */
+/* 如果不想所有 md 都加，可以注释掉下面这段 */
+.nav-file-title[data-path$=".md"] .nav-file-title-content::before {
+  content: "📖";
+  margin-right: 6px;
+  opacity: 0.6; /* 淡一点，不那么抢眼 */
+}
+
+/* --------------------------------------------
+   三、特定文件名包含关键词的图标定制
+   -------------------------------------------- */
+
+/* 1. 文件名包含 "README" 的显示信息图标 */
+.nav-file-title[data-path*="README"] .nav-file-title-content::before {
+  content: "ℹ️";
+  margin-right: 6px;
+}
+
+/* 2. 文件名包含 "TODO" 或 "待办" 的显示对勾图标 */
+.nav-file-title[data-path*="TODO"] .nav-file-title-content::before,
+.nav-file-title[data-path*="待办"] .nav-file-title-content::before {
+  content: "✅";
+  margin-right: 6px;
+}
+
+/* 3. 文件名包含 "会议" 的显示会议图标 */
+.nav-file-title[data-path*="会议"] .nav-file-title-content::before {
+  content: "📋";
+  margin-right: 6px;
+}
+
+/* 4. 文件名包含 "周报" 或 "月报" 的显示报告图标 */
+.nav-file-title[data-path*="周报"] .nav-file-title-content::before,
+.nav-file-title[data-path*="月报"] .nav-file-title-content::before {
+  content: "📈";
+  margin-right: 6px;
+}
+
+/* --------------------------------------------
+   四、子文件夹（多级路径）定制
+   -------------------------------------------- */
+
+/* 给 "日记/2026" 下的所有文件加特殊标记（日历+年份） */
+.nav-folder-title[data-path="日记/2026"] .nav-folder-title-content::before {
+  content: "📆";
+  margin-right: 6px;
+}
+
+/* 给 "日记/2026/08月" 文件夹加标记 */
+.nav-folder-title[data-path="日记/2026/08月"] .nav-folder-title-content::before {
+  content: "🌞";
+  margin-right: 6px;
+}
+
+/* --------------------------------------------
+   五、给文件夹图标添加颜色（进阶）
+   -------------------------------------------- */
+
+/* 让 "Projects" 文件夹的图标变成蓝色（用 filter 调色） */
+.nav-folder-title[data-path="Projects"] .nav-folder-title-content::before {
+  filter: hue-rotate(200deg) saturate(2);
+}
+
+/* 让 "日记" 文件夹的图标变成橙色 */
+.nav-folder-title[data-path="日记"] .nav-folder-title-content::before {
+  filter: hue-rotate(30deg) saturate(1.5);
+}
+
+/* --------------------------------------------
+   六、如果图标显示重叠，用这个修复
+   -------------------------------------------- */
+
+.nav-folder-title-content,
+.nav-file-title-content {
+  display: flex;
+  align-items: center;
+}
+
+.nav-folder-title-content::before,
+.nav-file-title-content::before {
+  display: inline-block;
+  width: 1.6em;
+  text-align: center;
+  flex-shrink: 0;
+}
+
+/* ============================================
+   使用说明
+   ============================================
+   1. 将此文件保存到：.obsidian/snippets/my-iconize-style.css
+   2. 打开 Obsidian 设置 → 外观 → CSS 代码片段
+   3. 点击刷新按钮，然后打开 my-iconize-style 的开关
+   4. 如果图标不生效，检查你的文件夹路径是否和代码中一致
+   5. 你可以根据自己仓库的实际文件夹名称修改 data-path 的值
+   ============================================ */

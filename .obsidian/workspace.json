@@ -1,0 +1,871 @@
+{
+  "main": {
+    "id": "a1d9b5c2560f3e70",
+    "type": "split",
+    "children": [
+      {
+        "id": "26cd31cfa587e026",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75d78dc79a84ed11",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "圆运动4 药物篇｜超详终极版（专业原文+底层逻辑+大白话解析）",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"中医/黄元御/圆运动4 药物篇｜超详终极版（专业原文+底层逻辑+大白话解析）.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"圆运动4 药物篇｜超详终极版（专业原文+底层逻辑+大白话解析）\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "营销/史上最全促销方式图1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "史上最全促销方式图1"
+            }
+          },
+          {
+            "id": "7d490776298b90f0",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "史上最全促销方式图2",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"营销/史上最全促销方式图2.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"史上最全促销方式图2\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":18},\"to\":{\"line\":7,\"ch\":18}},\"scroll\":0}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "营销/史上最全促销方式图1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "史上最全促销方式图1"
+            }
+          },
+          {
+            "id": "e6a7e5cb4a89f9b7",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "营销/史上最全促销方式图3+原理.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "史上最全促销方式图3+原理"
+            }
+          },
+          {
+            "id": "6db6a4eeb8508b89",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "史上最全促销方式图3+原理",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"营销/史上最全促销方式图3+原理.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"史上最全促销方式图3+原理\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":20},\"to\":{\"line\":7,\"ch\":20}}}"
+                },
+                {
+                  "title": "史上最全促销方式图4+底层逻辑",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"营销/史上最全促销方式图4+底层逻辑.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"史上最全促销方式图4+底层逻辑\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":21},\"to\":{\"line\":8,\"ch\":21}}}"
+                },
+                {
+                  "title": "史上最全促销方式图3+原理",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"营销/史上最全促销方式图3+原理.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"史上最全促销方式图3\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "史上最全促销方式图4+底层逻辑",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"营销/史上最全促销方式图4+底层逻辑.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"未命名\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":206,\"ch\":25},\"to\":{\"line\":206,\"ch\":25}},\"scroll\":192.91447368421052}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "营销/史上最全促销方式图2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "史上最全促销方式图2"
+            }
+          },
+          {
+            "id": "150941d2d5d1601a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "营销/未命名.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "未命名"
+            }
+          },
+          {
+            "id": "c45d28e9cf505103",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 1,
+              "stack": [
+                {
+                  "title": "未命名 3",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"11111/未命名 3.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"未命名 3\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "未命名 3",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"11111/未命名 3.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"未命名 3\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "未命名3",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"未命名3.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"未命名3\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "未命名2",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"未命名2.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"未命名2\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "八、关联定位",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"八、关联定位.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"八、关联定位\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":55.58358134920635}"
+                },
+                {
+                  "title": "白茅根-四气值（寒性）",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"白茅根-四气值（寒性）.png\"},\"icon\":\"lucide-image\",\"title\":\"白茅根-四气值（寒性）\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "认知行为疗法：辩证视角下的“反题”与整体框架重构4",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"认知行为疗法：辩证视角下的“反题”与整体框架重构4.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"认知行为疗法：辩证视角下的“反题”与整体框架重构4\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "认知行为疗法：基础与应用（原著第三版）2",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"认知行为疗法：基础与应用（原著第三版）2.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"认知行为疗法：基础与应用（原著第三版）2\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "认知行为疗法：基础与应用（原著第三版）1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"认知行为疗法：基础与应用（原著第三版）1.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"认知行为疗法：基础与应用（原著第三版）1\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "未命名 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"营销/未命名 1.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"未命名 1\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git/branch（Git分支）简要解析.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "branch（Git分支）简要解析"
+            }
+          },
+          {
+            "id": "f4a07a1d8529e239",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git/git config -l.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "git config -l"
+            }
+          },
+          {
+            "id": "7431744339f3383c",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "git config --show-origin -l",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Git/git config --show-origin -l.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"git config --show-origin -l\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":65},\"to\":{\"line\":13,\"ch\":65}},\"scroll\":0}"
+                },
+                {
+                  "title": "git config -l",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Git/git config -l.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"git config -l\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":38},\"to\":{\"line\":4,\"ch\":38}},\"scroll\":0.8547008547008547}"
+                },
+                {
+                  "title": "git config --show-origin -l",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Git/git config --show-origin -l.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"git config --show-origin -l\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":49},\"to\":{\"line\":4,\"ch\":49}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git/branch（Git分支）简要解析.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "branch（Git分支）简要解析"
+            }
+          },
+          {
+            "id": "f6decded984ae7b7",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 1,
+              "stack": [
+                {
+                  "title": "1111-11-11",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1111-11-11.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"1111-11-11\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git/未命名.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "未命名"
+            }
+          },
+          {
+            "id": "5f7e493fb71f1907",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "未命名 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Git/未命名 1.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"未命名 1\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":33},\"to\":{\"line\":8,\"ch\":33}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "伤寒六经求真/《伤寒六经求真》1深度解析.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "《伤寒六经求真》1深度解析"
+            }
+          },
+          {
+            "id": "07720f427e469c10",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "《伤寒六经求真》2超详细解析（大白话版）",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"伤寒六经求真/《伤寒六经求真》2超详细解析（大白话版）.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"《伤寒六经求真》2超详细解析（大白话版）\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":0},\"to\":{\"line\":20,\"ch\":0}},\"scroll\":6.85859375}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "书籍/《货币金融学》1原书第9版 · 深度大白话.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "《货币金融学》1原书第9版 · 深度大白话"
+            }
+          },
+          {
+            "id": "1cba81b0e44e5700",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "《货币金融学》2第9版 · 潜在概念深挖",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"书籍/《货币金融学》2第9版 · 潜在概念深挖.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"《货币金融学》2第9版 · 潜在概念深挖\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":24},\"to\":{\"line\":18,\"ch\":24}},\"scroll\":0}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "书籍/《货币金融学》1原书第9版 · 深度大白话.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "《货币金融学》1原书第9版 · 深度大白话"
+            }
+          },
+          {
+            "id": "212313ba582afced",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "《货币金融学》0原书第9版",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"书籍/《货币金融学》0原书第9版.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"《货币金融学》0原书第9版\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "《货币金融学》1原书第9版 · 深度大白话",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"书籍/《货币金融学》1原书第9版 · 深度大白话.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"《货币金融学》1原书第9版 · 深度大白话\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "《货币金融学》2第9版 · 潜在概念深挖",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"书籍/《货币金融学》2第9版 · 潜在概念深挖.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"《货币金融学》2第9版 · 潜在概念深挖\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "《货币金融学》1原书第9版 · 深度大白话",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"书籍/《货币金融学》1原书第9版 · 深度大白话.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"《货币金融学》1原书第9版 · 深度大白话\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "《货币金融学》0原书第9版",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"书籍/《货币金融学》0原书第9版.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"《货币金融学》0原书第9版\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "《货币金融学》1原书第9版 · 深度大白话",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"书籍/《货币金融学》1原书第9版 · 深度大白话.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"《货币金融学》1原书第9版 · 深度大白话\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":22},\"to\":{\"line\":13,\"ch\":22}},\"scroll\":0}"
+                },
+                {
+                  "title": "《货币金融学》0原书第9版",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"书籍/《货币金融学》0原书第9版.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"《货币金融学》0原书第9版\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":14},\"to\":{\"line\":15,\"ch\":14}},\"scroll\":2.628274518294003}"
+                },
+                {
+                  "title": "《货币金融学》2第9版 · 潜在概念深挖",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"书籍/《货币金融学》2第9版 · 潜在概念深挖.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"《货币金融学》2第9版 · 潜在概念深挖\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":14.745028409090908}"
+                },
+                {
+                  "title": "《货币金融学》1原书第9版 · 深度大白话",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"书籍/《货币金融学》1原书第9版 · 深度大白话.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"《货币金融学》1原书第9版 · 深度大白话\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":31},\"to\":{\"line\":18,\"ch\":28}},\"scroll\":28.196022727272727}"
+                },
+                {
+                  "title": "《货币金融学》0原书第9版",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"书籍/《货币金融学》0原书第9版.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"《货币金融学》0原书第9版\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":17},\"to\":{\"line\":0,\"ch\":17}},\"scroll\":0}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "书籍/《货币金融学》2第9版 · 潜在概念深挖.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "《货币金融学》2第9版 · 潜在概念深挖"
+            }
+          }
+        ],
+        "currentTab": 12
+      },
+      {
+        "id": "e8112ebf973fdca6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b003d32fcafeceb",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "mindmap-nextgen-plugin",
+              "state": {},
+              "icon": "dot-network",
+              "title": "Mindmap"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dd58fd56d28f6dae",
+    "type": "split",
+    "children": [
+      {
+        "id": "205913c5fc259e50",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "905540627454e89c",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "2bd8b45d6701f4f7",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "白术",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "a563a6de47ed6bc8",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "4a06ef93cff332fe",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "recent-files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 267.5
+  },
+  "right": {
+    "id": "77420affcb26a621",
+    "type": "split",
+    "children": [
+      {
+        "id": "22150e4eb3cff5a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae62e7d4585d0c62",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "50d50434a6d15a72",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "阴虚与阳虚.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "阴虚与阳虚 的出链列表"
+            }
+          },
+          {
+            "id": "9d302585dc50877f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "cdcd863e16fd6f33",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "b746b74aa4b21c4c",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled 1.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "4849b50828e6cd71",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "claudian-view",
+              "state": {
+                "tabWorkspace": {
+                  "version": 1,
+                  "openTabs": [
+                    {
+                      "tabId": "tab-1787319651735-4srjl9r",
+                      "conversationId": null,
+                      "draftModel": "opus"
+                    }
+                  ],
+                  "activeTabId": "tab-1787319651735-4srjl9r"
+                }
+              },
+              "icon": "lucide-ghost",
+              "title": "claudian-view"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 633,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "templater-obsidian:Templater": false,
+      "realclaudian:Open Claudian": false
+    }
+  },
+  "active": "212313ba582afced",
+  "lastOpenFiles": [
+    "书籍/《货币金融学》0原书第9版.md",
+    "书籍/《货币金融学》1原书第9版 · 深度大白话.md",
+    "书籍/《货币金融学》2第9版 · 潜在概念深挖.md",
+    "伤寒六经求真/《伤寒六经求真》2超详细解析（大白话版）.md",
+    "伤寒六经求真/《伤寒六经求真》2超详细解析（大白话版）.png",
+    "伤寒六经求真/787347aea322b6be8e07451b4975570c.png",
+    "伤寒六经求真/《伤寒六经求真》1深度解析.md",
+    "Git/未命名 1.md",
+    "伤寒六经求真",
+    "Git/未命名.md",
+    "1111-11-11.md",
+    "Git/branch（Git分支）简要解析.md",
+    "Git/git config --show-origin -l.md",
+    "Git/git config -l.md",
+    "Git",
+    "11111/未命名 3.md",
+    "未命名3.md",
+    "未命名2.md",
+    "八、关联定位.md",
+    "白茅根-四气值（寒性）.png",
+    "认知行为疗法：辩证视角下的“反题”与整体框架重构4.md",
+    "认知行为疗法：基础与应用（原著第三版）2.md",
+    "认知行为疗法：基础与应用（原著第三版）1.md",
+    "营销/未命名 1.md",
+    "营销/未命名.md",
+    "营销/史上最全促销方式图2.md",
+    "营销/史上最全促销方式图3+原理.md",
+    "营销/史上最全促销方式图4+底层逻辑.md",
+    "营销/史上最全促销方式图1.md",
+    "中医/黄元御/圆运动4 药物篇｜超详终极版（专业原文+底层逻辑+大白话解析）.md",
+    "营销",
+    "大明王朝1566/维稳成本.md",
+    "中医/黄元御",
+    "中医/新编中医证候学 段落解析",
+    "黄帝内经",
+    "01 中药 扣子智能体分析2/黄柏-四气值（寒性）.png",
+    "01 中药 扣子智能体分析2/地榆-四气值（寒性）.png",
+    "01 中药 扣子智能体分析2/生大黄-四气值.png",
+    "01 中药 扣子智能体分析2/白术-四气值（热性）.png",
+    "01 中药 扣子智能体分析2/苦参-四气值（寒性）.png",
+    "01 中药 扣子智能体分析2/地肤子-四气值（寒性）.png",
+    "01 中药 扣子智能体分析2/白鲜皮-四气值（寒性）.png",
+    "大明王朝1566",
+    "Iconize/asd.css",
+    "Iconize/新建文本文档.txt",
+    "Iconize/新建文本文档.css"
+  ]
+}
